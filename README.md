@@ -1,6 +1,6 @@
 # Container Cloning
 
-## Assigned: Wednesday, October 18, 2021
+## Assigned: Monday, October 18, 2021
 ## Due: Friday, October 22, 2021
 
 After cloning this repository to your computer, please take the following steps:
