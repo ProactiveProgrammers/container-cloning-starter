@@ -1,7 +1,7 @@
 # Container Cloning
 
-## Assigned: Monday, October 18, 2021
-## Due: Friday, October 22, 2021
+## Assigned: Thursday, April 21, 2022
+## Due: Thursday, April 28, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
@@ -24,7 +24,8 @@ Expected output not correct for input lists: [1, 2, 3, 4] and [1, 2, 5, 6]
 At least one test case did not pass!
 ```
 
-- You need to fix the defects in the program so that it produces the correct output!
+- You need to fix the defects in the program so that it produces the correct output
+as seen in the following fenced code block:
 
 ```
 Expected output correct for input lists: [1, 2, 3, 4] and [1, 2, 5, 6]
