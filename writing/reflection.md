@@ -38,7 +38,7 @@ TODO: Provide a detailed response to this question in at least one paragraph
 
 `def test_remove_duplicates() -> bool`
 
-### What was the defect in the `remove_duplicates` function? How did you find and fix it?
+### What were the defect(s) in the `remove_duplicates` function? How did you find and fix it?
 
 TODO: Provide a detailed response to this question in at least one paragraph
 
