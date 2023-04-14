@@ -71,7 +71,7 @@ Expected output not correct for input lists: [1, 2, 3, 4] and [1, 2, 5, 6]
 At least one test case did not pass!
 ```
 
-- You need to fix the defects in the program so that it produces the correct output!
+- You need to fix the defects in the program so that it produces the correct output:
 
 ```text
 Expected output correct for input lists: [1, 2, 3, 4] and [1, 2, 5, 6]
