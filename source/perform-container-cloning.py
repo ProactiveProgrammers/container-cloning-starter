@@ -7,7 +7,7 @@ from typing import Tuple
 
 def remove_duplicates(list_one: List[Any], list_two: List[Any]) -> Tuple[List[Any], List[Any]]:
     """Remove from both lists the duplicate elements that are found in both of the lists."""
-    # TODO: There is a defect in this function and you need to fix it!
+    # TODO: There is at least one defect in this function and you need to fix them!
     # TODO: Refer to pages 100 and 101 in your text book for more details!
     # iterate through the first list
     for element in list_one:
